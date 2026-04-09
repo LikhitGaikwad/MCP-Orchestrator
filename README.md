@@ -43,8 +43,8 @@ Tool Servers:
     1) Local: Streamlit app + Math + Manim servers
     2) Cloud: Expense API (FastMCP hosted)
 🔹 Communication
-1) stdio → Local tools
-2) HTTP streaming → Remote tools
+    1) stdio → Local tools
+    2) HTTP streaming → Remote tools
 
 # Acknowledgements
 Manim MCP Server (third-party)

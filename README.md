@@ -39,10 +39,10 @@ Tool Servers:
 7) asyncio
 
 # Deployment
-🔹 Hybrid Setup
+1) Hybrid Setup
     1) Local: Streamlit app + Math + Manim servers
     2) Cloud: Expense API (FastMCP hosted)
-🔹 Communication
+2) Communication
     1) stdio → Local tools
     2) HTTP streaming → Remote tools
 
